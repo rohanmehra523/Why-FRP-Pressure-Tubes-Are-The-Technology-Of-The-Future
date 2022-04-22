@@ -1,13 +1,13 @@
 # Why-FRP-Pressure-Tubes-Are-The-Technology-Of-The-Future
 In today’s industrial setting, FRP or Fiber-reinforced thermosetting plastic is being used in various applications, including the storage and transport of highly corrosive and toxic materials or other materials in corrosive environments. Fiber-reinforced plastic first became a preferred alternative to steel, stainless steel, and other materials in 1948. Today, FRP has various applications that take advantage of its corrosion resistance, strength-to-weight ratio, low maintenance, and life cycle cost. This article discusses the multiple applications of FRP pipes and the technological advances that utilize them. <br>
 
-**What is Fiberglass?**
+**What is Fiberglass?** <br>
 Fiberglass tanks and pipes are made of glass fiber reinforcement embedded in a cured thermosetting resin called fiberglass reinforced plastic. <br>
 FRP piping should not be confused with ordinary thermosetting piping like PVC or polyethylene. These systems usually use non-reinforced pipes and injection-molded fittings, and their strength comes from the bulk of the material used. <br>
 On the other hand, FRP piping materials are manufactured by winding processes that use epoxy resins reinforced with continuous glass filaments. These resins undergo thermosetting, i.e., they experience irreversible chemical reactions as they cure, which results in superior temperature capabilities, while the filament reinforcement makes the components of the pining mechanically far more resistant and sturdier than ordinary non-reinforced thermoplastics. <br>
 Using the proper combination of resin, glass fibers, additives, and design, FRP pressure tube manufacturers in India can create a product that meets the equipment designer’s standards. <br> 
 
-**How are Fiberglass Tubes used?**
+**How are Fiberglass Tubes used?**<br>
 Initially, FRP pressure tubes were used in oil field gathering lines for various applications ranging from handling flammable and combustible liquids to sewer and water mains in the municipal and industrial markets. There are multiple areas in which FRP pressure tubes are used. <br>
 
 **1. Oil and Gas Production Industry**: In the oil and gas production industry, it is used for high-pressure applications up to 4000 psi. in harsh environments, like the cold in the Arctic Circle to the heat of the Middle East, FRP pressure tubes are used in both above ground and underground. FRP pressure tubes are also used in hydraulic fracturing and saltwater and CO2 injection. <br>
